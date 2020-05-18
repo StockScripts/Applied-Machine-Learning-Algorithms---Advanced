@@ -17,4 +17,6 @@ Liquidity Regressor :
   - Cross-validate alternative models (Lasso, Ridge, ElasticNet, RandomForestRegressor, and GradientBoostingRegressor) to find the top performer
   
 Investor Classifier I :
-  - ...
+  - Understand the business case that is modeled in 'Investor_Classifier_II'
+  - Perform more advanced data exploration and visualization
+  - Engineer features based on conditional relationships between existing features
