@@ -20,3 +20,8 @@ Investor Classifier I :
   - Understand the business case that is modeled in 'Investor_Classifier_II'
   - Perform more advanced data exploration and visualization
   - Engineer features based on conditional relationships between existing features
+  
+Investor Classifier II :
+  - Use stratified random sampling to select proportionate samples from categorical data
+  - Understand the confusion matrix, its relation to the ROC curve and why it is a better success metric than R-squared for classifier algorithms
+  - Build and finalize a machine elarning classifier from start to finish
