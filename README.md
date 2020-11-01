@@ -13,7 +13,7 @@ Data Cleaning & Exploration :
 Liquidity Regressor :
   - Split data into training and testing sets
   - Construct model pipelines
-  - Perform hyperparameter utning
+  - Perform hyperparameter tuning
   - Cross-validate alternative models (Lasso, Ridge, ElasticNet, RandomForestRegressor, and GradientBoostingRegressor) to find the top performer
   
 Investor Classifier I :
